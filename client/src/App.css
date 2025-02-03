@@ -1,0 +1,5 @@
+/* header,nav styling - to erase text shownig through the nav bar */
+
+header, nav {
+    z-index: 100001 !important;
+}
